@@ -1,7 +1,5 @@
 package display
 
-package disp
-
 import (
 	"bufio"
 	"fmt"

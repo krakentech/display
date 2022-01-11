@@ -1,4 +1,4 @@
-package disp
+package display
 
 import (
 	"fmt"
